@@ -34,9 +34,7 @@
                         <include>**/*</include>
                     </includes>
                     <repositoryName>CommonUtils</repositoryName>
-                    <!-- ��Ӧgithub�ϴ����Ĳֿ����� name -->
                     <repositoryOwner>xunmengyiran</repositoryOwner>
-                    <!-- github �ֿ������� -->
                 </configuration>
                 <executions>
                     <execution>
